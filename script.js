@@ -4,7 +4,7 @@ const outfits = [
         name: "Royal Blcak Old Money",
         price: "₹349/day ",
         images: [
-            "https://github.com/Akash2627-collab/hottstuffzz/blob/main/images/2%20rings.jpg",
+            "./images/2 rings.jpg",
             "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/casio watch.jpg",
             "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/braclate and rings.jpg"
         ]
@@ -353,3 +353,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 
 });
+
