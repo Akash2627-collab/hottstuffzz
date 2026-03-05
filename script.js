@@ -4,81 +4,81 @@ const outfits = [
         name: "Royal Blcak Old Money",
         price: "₹349/day ",
         images: [
-            "./images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/casio watch.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/braclate and rings.jpg"
+            "./images/outfit 1.jpg",
+            "./images/casio watch.jpg",
+            "./images/braclate and rings.jpg"
         ]
     },
     {
         name: "pink plane + white lenin",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 2.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/black box chain.jpg"
+            "./images/outfit 2.jpg",
+            "./images/2 rings.jpg",
+            "./images/black box chain.jpg"
         ]
     },
     {
         name: "blue stripes + white lenin",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 3.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/steel chain.jpg"
+            "./images/outfit 3.jpg",
+            "./images/2 rings.jpg",
+            "./images/steel chain.jpg"
         ]
     },
     {
         name: "Black Threaded + white lenin",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit4.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/steel chain.jpg"
+            "./images/outfit4.jpg",
+            "./images/2 rings.jpg",
+            "./images/steel chain.jpg"
         ]
     },
     {
         name: "Elegant event pink look",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 5.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/black length box chain.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/braclate and rings.jpg"
+            "./images/outfit 5.jpg",
+            "./images/black length box chain.jpg",
+            "./images/braclate and rings.jpg"
         ]
     },
     {
         name: "Casul Fit",
         price: "₹299/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 6.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/black length box chain.jpg"
+            "./images/outfit 6.jpg",
+            "./images/2 rings.jpg",
+            "./images/black length box chain.jpg"
         ]
     },
     {
         name: "Asthetic old money look",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 7.jpeg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/braclate and rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/steel chain.jpg"
+            "./images/outfit 7.jpeg",
+            "./images/braclate and rings.jpg",
+            "./images/steel chain.jpg"
         ]
     },
     {
         name: "Acid wash + Denim genes",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 8.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/gold chain.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg"
+            "./images/outfit 8.jpg",
+            "./images/gold chain.jpg",
+            "./images/2 rings.jpg"
         ]
     },
     {
         name: "Pink striped + white lenin",
         price: "₹349/day",
         images: [
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/outfit 09.jpeg",
-             "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/2 rings.jpg",
-            "C:/Users/DELL/OneDrive/Desktop/hottstuffzwebsite/images/steel chain.jpg"
+            "./images/outfit 09.jpeg",
+             "./images/2 rings.jpg",
+            "./images/steel chain.jpg"
         ]
     },
     
@@ -353,4 +353,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 
 });
+
 
